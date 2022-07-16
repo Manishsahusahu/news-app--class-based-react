@@ -1,0 +1,149 @@
+{
+    "status": "ok",
+    "totalResults": 11,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Watch this impressive AR demo ‘reset’ a room using latest Apple tech",
+            "description": "A new AR prototype shown off by Shopify’s head of augmented and virtual reality shows how an iPhone with a LiDAR sensor could remove all the furniture from a room in augmented reality.",
+            "url": "https://www.theverge.com/2022/7/15/23219844/shopify-augmented-reality-roomplan-api-iphone-lidar-scanner",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NNb0uaJE1oaG3O4xKJrRBqV_ucM=/0x78:1080x643/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23844567/Lots_of_interest_in_this__reset_button__for_your_room_we_built__Shopify_that_uses__apple_s_new__Room_...jpg",
+            "publishedAt": "2022-07-15T08:53:57Z",
+            "content": "Shopifys prototype is just an internal experiment for now\r\nGone with a simple swipe.\r\nImage: Russ Maschmeyer\r\nWhat if you could use the augmented reality features of a LiDAR-equipped iPhone to see ho… [+2588 chars]"
+        },
+        {
+            "source": {
+                "id": "cbc-news",
+                "name": "CBC News"
+            },
+            "author": "CBC News",
+            "title": "Air Canada to cancel dozens of daily flights this summer | CBC News",
+            "description": "Air Canada will cut dozens of daily flights this summer as the airline grapples with a series of challenges amid soaring demand for travel.",
+            "url": "http://www.cbc.ca/news/business/air-canada-flights-july-august-reductions-1.6506451",
+            "urlToImage": "https://i.cbc.ca/1.6506455.1656549284!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/air-canada-flight-taxies-on-the-tarmac-in-montreal-in-may-2022.jpg",
+            "publishedAt": "2022-07-15T08:22:25.0984402Z",
+            "content": "Air Canada will cut dozens of daily flights this summer as the airline grapples with a series of challenges amid soaring demand for travel.\r\nThe changes would see Air Canada reduce its schedule by 77… [+3298 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Monica Chin",
+            "title": "macOS Ventura preview: the march to continuity continues",
+            "description": "macOS Ventura’s public beta is out, bringing Continuity Camera, Stage Manager, and more updates to Mac computers. The operating system continues Apple’s journey to bring macOS closer to its mobile counterparts.",
+            "url": "https://www.theverge.com/23205841/apple-macos-13-ventura-preview-stage-manager-continuity-camera",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/yyDwV8zHGQ_zhJbL1im6Ap7T1k8=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23832734/VRG_ILLO_226074_Ventura.jpg",
+            "publishedAt": "2022-07-14T16:44:38Z",
+            "content": "Venture into Ventura. I know, sorry, didnt have time to workshop this one.\r\nAs my colleagues downloaded the public beta of macOS Ventura, the underwhelmed reactions began to roll in. Everything looks… [+9595 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/devindra-hardawar",
+            "title": "MacBook Air M2 review (2022): Apple’s near-perfect Mac | Engadget",
+            "description": "The new MacBook Air is a spectacular revamp for Apple’s flagship ultraportable.",
+            "url": "https://www.engadget.com/macbook-air-m2-review-2022-130040098.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/8f645890-0318-11ed-abe7-4a5445793bdd",
+            "publishedAt": "2022-07-14T13:07:20.480433Z",
+            "content": "The new MacBook Air is one of Apple's most important computers since Steve Jobs pulled the original Air out of an envelope. It shows what's possible when Apple builds an ultraportable entirely around… [+8165 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Matt Hanson",
+            "title": "Apple MacBook Air (M2, 2022) review",
+            "description": "New look, new price",
+            "url": "https://www.techradar.com/reviews/apple-macbook-air-m2-2022",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/JwXA3L4CdjzF6WUxNMfD9e-1200-80.jpg",
+            "publishedAt": "2022-07-14T13:00:00Z",
+            "content": "Two-minute review\r\nHere is the MacBook Air (M2, 2022) configuration sent to TechRadar for review:\r\nCPU: Apple M2 (8-core)Graphics: Integrated 10-core GPURAM: 16GB Unified LPDDR5Screen: 13.6-inch, 2,5… [+18292 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Dan Seifert",
+            "title": "Apple’s new MacBook Air M2 is the start of a whole new Air-a",
+            "description": "There’s a new look for the most popular laptop on the market.",
+            "url": "https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/G8adEt8qFYgbCvT0yk546cFeSQ8=/0x138:2040x1206/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23759761/bfarsace_190101_5333_0008.jpg",
+            "publishedAt": "2022-07-14T13:00:00Z",
+            "content": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.After 14 years, three revisions, and two different processor architectures, the iconic wedge shape of… [+22505 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Gareth Beavis",
+            "title": "Prime Day deals, day 2 live - great deals on Apple Watch, AirPods, TV and more",
+            "description": "More deals are landing today - let's dig in",
+            "url": "https://www.techradar.com/news/live/prime-day-deals-day-2-live-great-deals-on-apple-watch-airpods-tv-and-more",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/kDqgqxg7RRp4bxyLov7a2R-1200-80.jpg",
+            "publishedAt": "2022-07-13T07:00:14.583Z",
+            "content": "(Image credit: Amazon)\r\nYes, we know it's called Amazon Prime Day, but it's really a 72-hour deals-a-thon where all manner of things are discounted over on the retailer.\r\nWe've been digging through t… [+833 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Chris Reed",
+            "title": "The New M2 MacBook Air Is Up for Preorder - IGN",
+            "description": "Everything you need to know to preorder the new 2022 M2 MacBook Air from Apple, including what makes it better than the M1.",
+            "url": "https://www.ign.com/articles/apple-m2-macbook-air-2022-is-now-available",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/08/untitled-design-1-1657285726317.png?width=1280",
+            "publishedAt": "2022-07-08T13:10:47Z",
+            "content": "The new 2022 MacBook Air with an M2 chip is finally available for preorder (see it at Amazon). Announced last month during Apples WWDC keynote, the machine features a new design, new color options, a… [+3006 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Apple stops product sales in Russia, adding to pressure from shippers, car makers",
+            "description": "American big brands including Apple, Google, Ford and Harley-Davidson on Tuesday stopped sales and distanced themselves from Russia because of the invasion of Ukraine, joining a growing list of companies from shippers to car makers to energy companies shunnin…",
+            "url": "https://www.reuters.com/world/uk/western-companies-pullout-russia-expected-accelerate-2022-03-01/",
+            "urlToImage": "https://www.reuters.com/resizer/GxIPeP8CVW_362CGS3271BnJNWo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5UW4ELYYYRMJDCJTZ6HNEXCZJE.jpg",
+            "publishedAt": "2022-03-01T22:36:13Z",
+            "content": "March 1 (Reuters) - American big brands including Apple, Google, Ford and Harley-Davidson on Tuesday stopped sales and distanced themselves from Russia because of the invasion of Ukraine, joining a g… [+6542 chars]"
+        },
+        {
+            "source": {
+                "id": "wired-de",
+                "name": "Wired.de"
+            },
+            "author": "GQ",
+            "title": "Apple Neuheiten: Was wir vor der ersten Keynote 2021 wissen!",
+            "description": "Bald soll es so weit sein: Bei der ersten Keynote 2021 präsentiert Apple Neues aus Cupertino. Auf diese Produkte dürfen wir uns freuen!",
+            "url": "https://www.gq-magazin.de/auto-technik/article/apple-neuheiten-2021-das-wissen-wir-vor-keynote",
+            "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/apple-neuheiten-event-erste-keynote-2021-technik-aufmjpg.jpg",
+            "publishedAt": "2021-03-23T17:09:52Z",
+            "content": "Auf eines ist im Frühjahr immer Verlass: Apple präsentiert seine (ersten) neuen Produkte. Glauben wir den jüngsten Gerüchten, wird das auch 2021 so sein und dieses Jahr sogar wieder live aus Cupertin… [+2936 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Akram's yorkers, Hegg's hits, and Chapple's 6 for 18 | ESPNcricinfo.com",
+            "description": "This week, we relive the glorious one-day triumphs of Lancashire in the 1990s | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102935/o-my-akram-my-hegg-long-ago",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1221634_1296x729.jpg",
+            "publishedAt": "2020-04-27T10:24:08Z",
+            "content": "With still no live cricket in sight, we're digging deep into YouTube to keep ourselves entertained. This week, a trip down memory lane with one of the most dominant one-day sides ever - Lancashire in… [+5185 chars]"
+        }
+    ]
+}
