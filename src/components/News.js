@@ -30,10 +30,14 @@ export class News extends Component {
         document.title = `NewsMonkey - ${this.capitalize(this.props.category)}`;
     }
     async updateNews() {
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c117423dc62e4fb2a8a00ba3b24e726f&page=${this.state.page}&pagesize=${this.props.pageSize}`;
+        this.props.setProgress(10);
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pagesize=${this.props.pageSize}`;
         let data = await fetch(url);
+        this.props.setProgress(35);
         let parsedData = await data.json();
+        this.props.setProgress(70);
         this.setState({ articles: parsedData.articles, totalResults: parsedData.totalResults,loading:false });
+        this.props.setProgress(100);
     }
     async componentDidMount() {
         this.updateNews();
@@ -48,7 +52,7 @@ export class News extends Component {
     }
     fetchMoreData = async () => {
         this.setState({ page: this.state.page + 1 });
-        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=c117423dc62e4fb2a8a00ba3b24e726f&page=${this.state.page}&pagesize=${this.props.pageSize}`;
+        let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pagesize=${this.props.pageSize}`;
         let data = await fetch(url);
         let parsedData = await data.json();
         this.setState({ articles: this.state.articles.concat(parsedData.articles), totalResults: parsedData.totalResults });
@@ -76,12 +80,12 @@ export class News extends Component {
                     </div>
                 </InfiniteScroll>
 
-                <div className="container d-flex justify-content-between">
-                    <button disabled={this.state.page <= 1} type="button" className="btn btn-dark" onClick={this.handlePrev}>Previous</button>
+                {/* <div className="container d-flex justify-content-between"> */}
+                    {/* <button disabled={this.state.page <= 1} type="button" className="btn btn-dark" onClick={this.handlePrev}>Previous</button> */}
                     {/* <button disabled={this.state.page + 1 >= this.state.totalResults/5 } type="button" className="btn btn-dark" onClick={this.handleNext}>Next</button> */}
-                    <button disabled={this.state.page + 1 >= 6} type="button" className="btn btn-dark" onClick={this.handleNext}>Next</button>
+                    {/* <button disabled={this.state.page + 1 >= 6} type="button" className="btn btn-dark" onClick={this.handleNext}>Next</button> */}
                     {/* // Maximum limit of news items is only 1${this.props.726f&pagesize=${this.props.pageSize}&pagesize=${this.props.pageSize}} as of now form news api */}
-                </div>
+                {/* </div> */}
             </div>
         )
     }
