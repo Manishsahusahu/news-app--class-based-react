@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/news-app--class-based-react/static/css/main.abd64e84.css",
+    "main.js": "/news-app--class-based-react/static/js/main.bdb3dc37.js",
+    "static/js/787.998b4c01.chunk.js": "/news-app--class-based-react/static/js/787.998b4c01.chunk.js",
+    "index.html": "/news-app--class-based-react/index.html",
+    "main.abd64e84.css.map": "/news-app--class-based-react/static/css/main.abd64e84.css.map",
+    "main.bdb3dc37.js.map": "/news-app--class-based-react/static/js/main.bdb3dc37.js.map",
+    "787.998b4c01.chunk.js.map": "/news-app--class-based-react/static/js/787.998b4c01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.bdb3dc37.js"
+  ]
+}
