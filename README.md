@@ -1,4 +1,4 @@
-![project image](https://github.com/[Manishsahusahu]/[news-app--class-based-react]/blob/[master]/projectImage/projectImage.png?raw=true)
+![project image](https://github.com/[Manishsahusahu]/[news-app--class-based-react]/[master]/projectImage/projectImage.png?raw=true)
 
 
 
